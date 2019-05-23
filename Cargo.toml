@@ -6,5 +6,6 @@ authors = ["Albert Liu <albertymliu@gmail.com>"]
 edition = "2018"
 repository = "https://github.com/A1Liu/atomic-types"
 readme = " Adding explicit type system support for atomic counterparts to primitive types."
+license = "MIT"
 
 [dependencies]
