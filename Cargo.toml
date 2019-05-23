@@ -1,11 +1,11 @@
 [package]
 name = "atomic-types"
-description = "Explicit trait relationships between primitives and atomic counterparts"
+description = "Adding explicit type system support for atomic counterparts to primitive types."
 version = "0.1.0"
 authors = ["Albert Liu <albertymliu@gmail.com>"]
 edition = "2018"
 repository = "https://github.com/A1Liu/atomic-types"
-readme = " Adding explicit type system support for atomic counterparts to primitive types."
+readme = "README.md"
 license = "MIT"
 
 [dependencies]
