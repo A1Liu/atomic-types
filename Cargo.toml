@@ -1,7 +1,9 @@
 [package]
 name = "atomic-types"
+description = "Explicit trait relationships between primitives and atomic counterparts"
 version = "0.1.0"
 authors = ["Albert Liu <albertymliu@gmail.com>"]
 edition = "2018"
+repository = "https://github.com/A1Liu/atomic-types"
 
 [dependencies]
